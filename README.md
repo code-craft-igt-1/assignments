@@ -7,3 +7,5 @@ The intention of this exercise is to check your participation. You would need so
 Accept the assignment and look for `README.md` in your repository for further information.
 
 [C++ entrance](https://classroom.github.com/a/wGcE7aB9)
+
+[Python entrance](https://classroom.github.com/a/I9c00_0c)
