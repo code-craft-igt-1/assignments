@@ -1,0 +1,22 @@
+# Modular well-named recap
+
+## Naming
+
+[Intuitive file names](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005); what responsibility does gtest take in this?
+
+## Splitting files
+
+[Compiler and linker](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005/blob/c49c48622dcd5447f181bfaeeee6b028bc22849c/CMakePresets.json)
+
+## Splitting patterns:
+
+1. Split test code from production code
+1. New functionality in its own file
+
+## Testability
+
+Easy to test: `int GetPairNumberFromColor(...`
+
+Hard to test: `void PrintReferenceManual()`
+
+## 
