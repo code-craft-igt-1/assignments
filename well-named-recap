@@ -2,7 +2,10 @@
 
 ## Naming
 
-[Intuitive file names](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005); what responsibility does gtest take in this?
+[Intuitive file names](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005) indicate Single Responsibility = "one reason for change".
+BTW, what responsibility does gtest take away in this?
+
+[Retaining naming and meaning](https://github.com/code-craft-igt-1/well-named-in-cpp-AviB183/blob/1440afe6345a694851e57286461a9733618417a7/ColorConstants.h) to track the maximum color number
 
 ## Splitting files
 
@@ -19,4 +22,4 @@ Easy to test: `int GetPairNumberFromColor(...`
 
 Hard to test: `void PrintReferenceManual()`
 
-## 
+> Can you think of asserts for printing, to reduce the manual test effort?
