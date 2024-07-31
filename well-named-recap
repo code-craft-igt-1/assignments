@@ -7,6 +7,8 @@ BTW, what responsibility does gtest take away in this?
 
 [Retaining naming and meaning](https://github.com/code-craft-igt-1/well-named-in-cpp-AviB183/blob/1440afe6345a694851e57286461a9733618417a7/ColorConstants.h) to track the maximum color number
 
+Avoid generic names. Generic names often have `Utils` and `Manager` in them. [Example specific naming](https://github.com/code-craft-igt-1/well-named-in-cpp-vivekantonyo)
+
 ## Splitting files
 
 [Compiler and linker](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005/blob/c49c48622dcd5447f181bfaeeee6b028bc22849c/CMakePresets.json)
