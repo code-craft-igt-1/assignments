@@ -9,6 +9,17 @@ BTW, what responsibility does gtest take away in this?
 
 Avoid generic names. Generic names often have `Utils` and `Manager` in them. [Example specific naming](https://github.com/code-craft-igt-1/well-named-in-cpp-vivekantonyo)
 
+## Encapsulation vs Separation
+
+[Here is another intuitive file-naming](https://github.com/code-craft-igt-1/well-named-in-cpp-surdhawal20), which keeps together all color-pair functionality. 
+
+Trade-offs:
+
+- Keeping things together means we modify things in one place - but developers can step on each others toes
+- Keeping `ColorPair` with data and a `Utils` file with conversion and printing feels like we separated, but a single functionality-change may now be spread across files
+
+What's the best way? Explore in the next assignment :)
+
 ## Splitting files
 
 [Compiler and linker](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005/blob/c49c48622dcd5447f181bfaeeee6b028bc22849c/CMakePresets.json)
