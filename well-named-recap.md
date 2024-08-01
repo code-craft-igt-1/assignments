@@ -13,6 +13,8 @@ Avoid generic names. Generic names often have `Utils` and `Manager` in them. [Ex
 
 [Here is an intuitive file-naming](https://github.com/code-craft-igt-1/well-named-in-cpp-surdhawal20), which keeps together all color-pair functionality. 
 
+[Keep related code in same namespace](https://github.com/code-craft-igt-1/well-named-in-cpp-pavanshenoy89/blob/5aa8f292c6f22eb8c04ee844e9028fc4199835fd/colorcoder.h)
+
 [Specific file names](https://github.com/code-craft-igt-1/well-named-in-cpp-Sasikalaas28) force you to make small files.
 
 Trade-offs:
