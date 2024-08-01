@@ -26,10 +26,26 @@ What's the best way? Explore in the next assignment :)
 
 [Compiler and linker](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005/blob/c49c48622dcd5447f181bfaeeee6b028bc22849c/CMakePresets.json)
 
-## Splitting patterns:
+**Splitting patterns**:
 
 1. Split test code from production code
 1. New functionality in its own file
+
+## Comments
+
+It's hard to keep comments in sync with functionality. Write _why_ the code is written, not what it does.
+
+```cpp
+ // Class to represent a color pair
+ class ColorPair {
+ private:
+     MajorColor majorColor;
+     MinorColor minorColor;
+ public:
+     ColorPair(MajorColor major, MinorColor minor);
+     ...
+     static int GetNumberOfMajorColors();
+```
 
 ## Testability
 
