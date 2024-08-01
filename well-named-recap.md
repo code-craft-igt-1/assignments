@@ -3,7 +3,7 @@
 ## Naming
 
 [Intuitive file names](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005) indicate Single Responsibility = "one reason for change".
-BTW, what responsibility does gtest take away in this?
+BTW, what work can [gtest take](https://github.com/code-craft-igt-1/well-named-in-cpp-SherawatHari) in this?
 
 [Retaining naming and meaning](https://github.com/code-craft-igt-1/well-named-in-cpp-AviB183/blob/1440afe6345a694851e57286461a9733618417a7/ColorConstants.h) to track the maximum color number
 
