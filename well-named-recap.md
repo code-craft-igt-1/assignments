@@ -11,7 +11,9 @@ Avoid generic names. Generic names often have `Utils` and `Manager` in them. [Ex
 
 ## Encapsulation vs Separation
 
-[Here is another intuitive file-naming](https://github.com/code-craft-igt-1/well-named-in-cpp-surdhawal20), which keeps together all color-pair functionality. 
+[Here is an intuitive file-naming](https://github.com/code-craft-igt-1/well-named-in-cpp-surdhawal20), which keeps together all color-pair functionality. 
+
+[Specific file names](https://github.com/code-craft-igt-1/well-named-in-cpp-Sasikalaas28) force you to make small files.
 
 Trade-offs:
 
