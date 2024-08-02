@@ -55,4 +55,12 @@ Easy to test: `int GetPairNumberFromColor(...`
 
 Hard to test: `void PrintReferenceManual()`
 
-> Can you think of asserts for printing, to reduce the manual test effort?
+[Asserts for printing](https://github.com/code-craft-igt-1/well-named-in-cpp-shivraj0058/blob/f3be90cbe183fb729d4305f9c7b287f35e32a8d4/TestColorPair.cpp), to reduce manual test effort.
+
+[Test against reference output](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005/blob/master/RefManual.txt)
+
+Are these tests very [sensitive](https://github.com/code-craft-igt-1/well-named-in-cpp-arundas005/actions/runs/10197155234/job/28209402109)? Do they pay back the effort?
+
+Splitting the responsibility inside the print function enables [asserting the value](https://github.com/code-craft-igt-1/well-named-in-py-manojsubrahmanian/blob/bac265e7911e1c3d9d1e7bb32c749593aeb6591d/refmanualtest.py) before printing it. See the [same in cpp](https://github.com/code-craft-igt-1/well-named-in-cpp-manojsubrahmanian/blob/631bed0bd3d58d7a3225e81244296b404ea0f5f7/ColorCodingFormatter.cpp)
+
+>Can we assert the user need?
