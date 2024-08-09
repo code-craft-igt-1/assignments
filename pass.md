@@ -5,7 +5,7 @@ Rapid cycles of test and development form the essence of TDD. Testing each funct
 ## The task
 
 - Fix the bug and pass the tests, which are failing from the [previous assignment](fail.md).
-- In your build-workflow (`.github/workflows/main-workflow.yml`), _remove_ `bash .github/workflows/expectfail.sh` in three places - otherwise passing tests will fail the Action. Keep the rest of the line and maintain the same indentation as the previous line in the yml.  
+- In your build-workflow (`.github/workflows/main-workflow.yml`), _remove_ `bash .github/workflows/expectfail.sh` in all places where it's present - otherwise passing tests will fail the Action.
 
 ## Observe
 
