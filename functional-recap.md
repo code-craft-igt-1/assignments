@@ -1,5 +1,23 @@
 # Recap of reducing complexity
 
+## Low semantic distance
+
+Which reads better?
+
+```cpp
+bool checkVitals(..)
+
+if (checkVitals(..)) {...}
+```
+
+---
+
+```cpp
+bool vitalsAreInRange(..)
+
+if (vitalsAreInRange(..)) {...}
+```
+
 ## The struggle to limit complexity
 
 ```cpp
@@ -12,6 +30,10 @@ if (isTempCritical | isPulseOutOfRange | isSpo2OutOfRange) {
 ```cpp
 return temperatureInRange && pulseInRange && spo2InRange;
 ```
+
+---
+
+Suggestions:
 
 [Use a loop instead of a conjunction](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-surdhawal20/blob/41798474a72ea48819c8b11907612e054ceb88d8/monitor.cpp)
 
@@ -39,7 +61,7 @@ bool isSpo2Critical(float spo2) {
 
 ## Testing ranges
 
-[Testing by the property of range-inclusion](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-manojsubrahmanian/blob/12f7ed9f40c0935a9305f306e2c21c2ac4795e1a/test-monitor.cpp)
+[Testing by the "property" of range-inclusion](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-manojsubrahmanian/blob/12f7ed9f40c0935a9305f306e2c21c2ac4795e1a/test-monitor.cpp)
 
 [Easy-to-read boundary checks](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-shunmugasundaramp/blob/cae96a498bd90315e91f55df995f99b01aadbdab/test-monitor.cpp)
 
