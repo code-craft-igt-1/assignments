@@ -59,6 +59,8 @@ bool isSpo2Critical(float spo2) {
 }
 ```
 
+[See coverage report](coverage.monitor.cpp.separateparams.html)
+
 ## Testing ranges
 
 [Testing by the "property" of range-inclusion](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-manojsubrahmanian/blob/12f7ed9f40c0935a9305f306e2c21c2ac4795e1a/test-monitor.cpp)
