@@ -6,6 +6,8 @@
 
 [Mapping strings](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-Lokesh-Kumar-121/blob/ef5f17a648f3fbb7a3ce6390970fcce0f5600b0b/monitor.cpp)
 
+[UTF-8 messages](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-Sasikalaas28/blob/733e8a7269b98bd80fd1a5964f1d1962c0026586/monitor.cpp)
+
 ## Common comment
 
 In most repos, the strings aren't automatically tested.
