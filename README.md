@@ -23,7 +23,9 @@ Fri - session / recap + next
 
 ## Try it
 
-[Extend and Refactor](extend-refactor.md)
+[Develop and Exchange](streaming-project.md)
+
+[Extend and Refactor](extend-refactor.md) and [recap](extend-refactor-recap.md)
 
 [Reduce complexity](functional.md) and [recap](functional-recap.md)
 
