@@ -25,6 +25,8 @@ But other things can go wrong, like missing a translation in a particular langua
 
 [Declarative code to express requirements](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-manojsubrahmanian/blob/4608a4b1a075490f65140a06ffda5989e90b6a32/vitals_monitor.h)
 
+[Declarative ranges](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-arundas005/blob/b3fbdcd424af36bd8a34e7b1140e8382b03ae4c8/monitor.cpp) using `VITAL_RANGE_CLASSIFICATION`
+
 ## Remove generic naming for Single Responsibility
 
 The word `check` is generic and doesn't say the purpose of checking, or what's being checked.
