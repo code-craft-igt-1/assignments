@@ -10,6 +10,8 @@
 
 [Use of `boost` library](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-lll2yu/blob/4c568883ecfbcde78a816fe6596d3fe74d6ae334/vitalchecker.cpp) to offload standard functionality to an off-the-shelf library.
 
+[Let Google translate](https://github.com/code-craft-igt-1/simple-monitor-in-py-uvnagendra/blob/46d1f97a98bf2161cfa683e6618af96c220206e1/monitor_vitals_util.py) instead of storing.
+
 ## Common comment
 
 In most repos, the message strings aren't automatically tested.
