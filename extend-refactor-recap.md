@@ -17,6 +17,8 @@ But other things can go wrong, like missing a translation in a particular langua
 
 >Can you think of any asserts to safeguard against that?
 
+[Parametrized tests](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-lll2yu/blob/4c568883ecfbcde78a816fe6596d3fe74d6ae334/test-vitalchecker.cpp) are one way to reduce duplication in repeating tests with different data.
+
 ## Thresholds
 
 [Declarative code to express requirements](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-manojsubrahmanian/blob/4608a4b1a075490f65140a06ffda5989e90b6a32/vitals_monitor.h)
