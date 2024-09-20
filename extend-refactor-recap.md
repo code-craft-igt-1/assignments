@@ -10,7 +10,7 @@
 
 ## Common comment
 
-In most repos, the strings aren't automatically tested.
+In most repos, the message strings aren't automatically tested.
 Also, it's hard to test all the situations in all the languages manually each time.
 Of course, the "understand-ability" of the translation can only be confirmed manually by native speakers.
 But other things can go wrong, like missing a translation in a particular language, etc.
