@@ -8,6 +8,8 @@
 
 [UTF-8 messages](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-Sasikalaas28/blob/733e8a7269b98bd80fd1a5964f1d1962c0026586/monitor.cpp)
 
+[Use of `boost` library](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-lll2yu/blob/4c568883ecfbcde78a816fe6596d3fe74d6ae334/vitalchecker.cpp) to offload standard functionality to an off-the-shelf library.
+
 ## Common comment
 
 In most repos, the message strings aren't automatically tested.
