@@ -23,7 +23,7 @@ Fri - session / recap + next
 
 ## Try it
 
-[Develop and Exchange](streaming-project.md)
+[Develop and Exchange](streaming-project.md), as per [this list](exchange-rota.pdf)
 
 [Extend and Refactor](extend-refactor.md) and [recap](extend-refactor-recap.md)
 
