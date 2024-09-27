@@ -5,7 +5,7 @@ In this project, you will write code, handover and work on another person's code
 - Readability = Ease and speed of handover
 - Ability to refactor and extend = Final deliverable
 
-Domain: Patient-monitoring sensors can stream temperature, pulse rate, SPO2. We will 
+Domain: Patient-monitoring sensors can stream temperature, pulse rate, SPO2. We will simulate and process this data.
 
 ## Part 1: Simulate and standardize
 
@@ -23,6 +23,6 @@ Setup GitHub workflows to build and run. Make sure the GitHub Action passes with
 You'll get the GitHub username of the person who will take over your code. Add as an admin to your repository.
 Similarly, you will take over another repository.
 
-## Part 3: 
+## Part 3: Process
 
 After taking over, take the **standardized data** from console and compute basic statistics.

@@ -8,18 +8,26 @@
 
 [UTF-8 messages](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-Sasikalaas28/blob/733e8a7269b98bd80fd1a5964f1d1962c0026586/monitor.cpp)
 
+[Use of `boost` library](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-lll2yu/blob/4c568883ecfbcde78a816fe6596d3fe74d6ae334/vitalchecker.cpp) to offload standard functionality to an off-the-shelf library.
+
+[Let Google translate](https://github.com/code-craft-igt-1/simple-monitor-in-py-uvnagendra/blob/46d1f97a98bf2161cfa683e6618af96c220206e1/monitor_vitals_util.py) instead of storing.
+
 ## Common comment
 
-In most repos, the strings aren't automatically tested.
+In most repos, the message strings aren't automatically tested.
 Also, it's hard to test all the situations in all the languages manually each time.
 Of course, the "understand-ability" of the translation can only be confirmed manually by native speakers.
 But other things can go wrong, like missing a translation in a particular language, etc.
 
 >Can you think of any asserts to safeguard against that?
 
+[Parametrized tests](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-lll2yu/blob/4c568883ecfbcde78a816fe6596d3fe74d6ae334/test-vitalchecker.cpp) are one way to reduce duplication in repeating tests with different data.
+
 ## Thresholds
 
 [Declarative code to express requirements](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-manojsubrahmanian/blob/4608a4b1a075490f65140a06ffda5989e90b6a32/vitals_monitor.h)
+
+[Declarative ranges](https://github.com/code-craft-igt-1/simple-monitor-in-cpp-arundas005/blob/b3fbdcd424af36bd8a34e7b1140e8382b03ae4c8/monitor.cpp) using `VITAL_RANGE_CLASSIFICATION`
 
 ## Remove generic naming for Single Responsibility
 
