@@ -23,7 +23,7 @@ Fri - session / recap + next
 
 ## Try it
 
-[Develop and Exchange](streaming-project.md), as per [this list](exchange-rota.pdf). [Enter your feedback](https://forms.office.com/e/A8JC71tmmi) on completion
+[Develop and Exchange](streaming-project.md), as per [this list](exchange-rota.pdf). After development, enter [your feedback](https://forms.office.com/e/A8JC71tmmi) on completion
 
 [Extend and Refactor](extend-refactor.md) and [recap](extend-refactor-recap.md)
 
