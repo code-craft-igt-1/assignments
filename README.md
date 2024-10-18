@@ -23,6 +23,10 @@ Fri - session / recap + next
 
 ## Try it
 
+[Pass an image in C++](https://classroom.github.com/a/sBrgW2Zl)
+
+[Survey at the end of Phase-1](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=LXpAGnV2F02GkrOsKFMG5MIBykE8w1FAqEb47Plu6GVUQVhHMFdRMkdIRkFWQ0tWMFRJV1JaNlhXVS4u)
+
 [Develop and Exchange](streaming-project.md), as per [this list](exchange-rota.pdf). [Enter your feedback](https://forms.office.com/e/A8JC71tmmi) on completion
 
 [Extend and Refactor](extend-refactor.md) and [recap](extend-refactor-recap.md)
