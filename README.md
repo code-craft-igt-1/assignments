@@ -7,9 +7,9 @@ weekend
 
 ---
 
-Mon --> (multiple commits permitted)
+Mon --> Fri (multiple commits permitted)
 
-Tue --> commit 'at least / latest' by EoD
+Mon..Tue --> commit 'at least / latest' by EoD
 
 ---
 
