@@ -23,7 +23,9 @@ Fri - session / recap + next
 
 ## Try it
 
-[Pass an image in C++](https://classroom.github.com/a/sBrgW2Zl)
+[Encapsulate the image](https://classroom.github.com/a/kZBy8U-3)
+
+[Pass an image in C++](https://classroom.github.com/a/sBrgW2Zl) and [recap](pass-an-image-recap.md)
 
 [Survey at the end of Phase-1](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=LXpAGnV2F02GkrOsKFMG5MIBykE8w1FAqEb47Plu6GVUQVhHMFdRMkdIRkFWQ0tWMFRJV1JaNlhXVS4u)
 
