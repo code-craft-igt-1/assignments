@@ -23,7 +23,9 @@ Fri - session / recap + next
 
 ## Try it
 
-[Encapsulate the image](https://classroom.github.com/a/kZBy8U-3)
+[Reduce code](https://classroom.github.com/a/OGEK8l8r)
+
+[Encapsulate the image](https://classroom.github.com/a/kZBy8U-3) and [recap](image-encapsulation-recap.md)
 
 [Pass an image in C++](https://classroom.github.com/a/sBrgW2Zl) and [recap](pass-an-image-recap.md)
 
