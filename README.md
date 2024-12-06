@@ -23,7 +23,7 @@ Fri - session / recap + next
 
 ## Try it
 
-[Reduce code](https://classroom.github.com/a/OGEK8l8r)
+[Reduce code](https://classroom.github.com/a/OGEK8l8r) and [recap](reduce-code-recap.md)
 
 [Encapsulate the image](https://classroom.github.com/a/kZBy8U-3) and [recap](image-encapsulation-recap.md)
 
