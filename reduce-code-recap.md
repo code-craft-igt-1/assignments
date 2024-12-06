@@ -41,7 +41,7 @@ class FixedBrightener : public IPixelProcessor {
             ++attenuatedCount;
             return 255;
         } else {
-            return 25;
+            return pixelValue + 25;
         }
     }
 };
@@ -91,3 +91,5 @@ int ImageBrightener::BrightenWholeImage() {
     return attenuatedCount;
 }
 ```
+
+See [this repo](https://github.com/code-craft-igt-1/reduce-code-sudeeprp) for the rest of the story
